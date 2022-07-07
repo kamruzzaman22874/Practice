@@ -19,6 +19,9 @@ body{
     height: 460px;
     padding:10px;
 }
+.half-width h1 span{
+    color: orange;
+}
 .half-width-1 img{
     width: 442px;
     height: 424px;
